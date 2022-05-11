@@ -1,0 +1,139 @@
+*{
+    box-sizing:border-box;
+	font-family:sans-serif;
+}
+.green{
+	color:green;
+}
+.brown{
+	color:brown;
+}
+.red{
+	color: red;
+}
+.white{
+	color:white;
+}
+.blue{
+	color: blue;
+}
+.text_center{
+	text-align:center;
+}
+.text_middle{
+	text-align:middle;
+}
+.text_left{
+	text-align: left;
+}
+.width{
+    width:100%;
+}
+.width1{
+    width:25%;
+    height:86px;
+    background-color:green;
+    float:left;
+    margin-right:-74px;
+}
+.logo{
+    background-color:yellow;
+    width:37%;
+    height:65px;
+    margin:8px 4px 4px 140px;
+    float:left;
+}
+.backgroundcolor1{
+	background-color:violet;
+	color:brown;
+    font-size:18px;
+	width:61.85%;
+	height:86px;
+	margin-left:-20px;
+	margin-right:0px;
+	float:left;
+	text-align:left;
+}
+.followus{
+	background-color:yellow;
+	color:blue;
+	width:19.3%;
+	margin:0px;
+	height:86px;
+	float:right;
+	text-align:left;
+}
+.backgroundcolor2{
+	background-color:green;
+	color:blue;
+	width:13%
+	margin:0px;
+	height:55px;
+}
+.home{
+	background-color:green;
+	width:15%;
+	height:33px;
+	padding-bottom:22px;
+	margin:0px 0px 0px 100px;
+	float:left;
+	text-align:center;
+}
+.about{
+	background-color:whitesmoke;
+	width:15%;
+	height:33px;
+	padding-bottom:22px;
+	margin:0px 0px 0px 0px;
+	float:left;
+	text-align:center;
+}
+.academics{
+	background-color:green;
+	width:15%;
+	height:33px;
+	padding-bottom:22px;
+	margin:0px 0px 0px 0px;
+	float:left;
+	text-align:center;
+}
+.box-model{
+	border:10px solid red;
+	border-radius:30px;
+	text-align:center;
+	padding:35px;
+	margin:40px;
+	height:200px;
+	width:50%;
+	float:center;
+}
+.button{
+	background-color: blue:
+}
+.mid-height{
+    height:150%;
+    background-color:violet;
+}
+.bottom-height{
+    height:30%;
+    background-color:red;
+}
+.menu-bar{
+    background-color:green;
+    color:white;
+    text-align:center;
+}
+.menu-bar ul{
+    display:inline-flex;
+    list-style:none;
+}
+.menu-bar ul li{
+    width:150px;
+    height:10px;
+    margin-top:4px;
+    margin-bottom:4px;
+    margin-left:80px;
+    margin-right:80px;
+    padding:0px;
+
+}
